@@ -1,5 +1,4 @@
 <template>
-
   <div class="home-body">
     <div class="left-menu">
       <LeftMenuVue></LeftMenuVue>
